@@ -1,1 +1,1 @@
-![textanim-60sBh](https://github.com/Z3RO-IQ/ZR/assets/148701546/df12e410-4a44-4d21-a2ea-d3fbdc1e5f34)
+![textanim-SMUSK](https://github.com/Z3RO-IQ/ZR/assets/148701546/b5e6768f-b63e-40bb-bd53-72d7e8a3cddd)
