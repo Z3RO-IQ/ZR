@@ -38,7 +38,8 @@
 - 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [ZERO-404-xd](https://github.com/Z3RO-IQ)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-- 🤨 𝐓𝐎𝐎𝐋 :- 
+- 🤨 𝐓𝐎𝐎𝐋 :-
+
 git clone https://github.com/Z3RO-IQ/ZR.git
 
 cd ZR
